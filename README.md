@@ -10,6 +10,7 @@
   - overall_tasks
     - task #1
     - task #2
+      - part_1
 
 - **Scala**
   - final_task
